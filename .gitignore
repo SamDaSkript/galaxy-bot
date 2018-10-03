@@ -5,6 +5,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Config 
+botconfig.json
+bot.js
+package.json
+package-lock.json
+
 # Runtime data
 pids
 *.pid
